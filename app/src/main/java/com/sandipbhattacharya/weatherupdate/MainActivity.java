@@ -1,4 +1,4 @@
-package com.example.androidweatherapp;
+package com.sandipbhattacharya.weatherupdate;
 
 import android.graphics.Color;
 import android.os.Bundle;
@@ -20,7 +20,6 @@ import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.initialization.InitializationStatus;
 import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
-import com.sandipbhattacharya.weatherupdate.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;
